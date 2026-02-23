@@ -1,4 +1,4 @@
-# pc-health-stack
+<img width="950" height="424" alt="Screenshot 2026-02-23 094529" src="https://github.com/user-attachments/assets/ffb5aac2-3d50-4981-a40c-cca1cf8ddd60" /># pc-health-stack
 Local observability setup using Prometheus, OpenTelemetry and Grafana
 📊 Local Observability Stack
 This project demonstrates a local monitoring setup using:
@@ -39,4 +39,7 @@ Click Add data source and select Prometheus.
 In the URL field, type: http://prometheus:9090.
 Note: Use the service name "prometheus" because they are in the same Docker network.
 Scroll to the bottom and click Save & Test. You should see a green "Data source is working" message.
+
+<img width="950" height="424" alt="Screenshot 2026-02-23 094529" src="https://github.com/user-attachments/assets/cecf9107-7ae2-4ee1-ac18-d8b13fafe8e3" />
+
 
